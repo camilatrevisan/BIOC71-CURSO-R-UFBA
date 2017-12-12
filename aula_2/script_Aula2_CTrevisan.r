@@ -14,7 +14,7 @@
 #Matriz com objetos de classes diferentes. List apenas lista os objetos, sem importar a classe
 
 # o que as funções abaixo fazem? O que elas retornam?
-is.vector() #Testa se o elemento entre os parenteses é um vetor
+is.vector() #Testa se o elemento entre os parenteses é um vetor#Buli aqui tbm
 is.numeric()#Testa se o elemento entre os parenteses é numérico
 is.character()#Testa se o elemento entre os parenteses é texto
 is.matrix()#Testa se o elemento entre os parenteses é uma matriz
