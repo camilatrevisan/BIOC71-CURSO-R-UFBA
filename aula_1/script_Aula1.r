@@ -5,7 +5,7 @@
 # https://github.com/vrios/Intro-Linguagem-R/wiki
 #####################################################
 
-
+#Alterando só pq o scipt pediu com jeitinho
 #####Usando o R como calculadora#####
 
 
